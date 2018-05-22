@@ -164,6 +164,9 @@ class SwitchStatement(Statement):
 class BlockStatement(Statement):
     attrs = ("statements",)
 
+class StaticBlock(Statement):
+    attrs = ("statements",)
+
 class StatementExpression(Statement):
     attrs = ("expression",)
 
