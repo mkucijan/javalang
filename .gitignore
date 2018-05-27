@@ -1,5 +1,6 @@
 *.pyc
 dist
+tags
 *.egg-info
 /build
 /env
