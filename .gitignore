@@ -2,6 +2,7 @@
 dist
 tags
 *.egg-info
+.vscode
 /build
 /env
 /.eggs
